@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💻 Stiffany | Computer Science Student  
+**👩‍💻 Freshman | PUP - Sta. Mesa**  
+🔹 Aspiring Machine Learning & AI Engineer  
+🔹 Studying **C** & **Python**  
+🔹 Currently pursuing **Associate Python Developer** certification  
 
-<!--
-**TiffnieXAI/TiffnieXAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+Hey there! I'm **Stiffany**, a Computer Science student passionate about coding and problem-solving. I enjoy working with **C** and **Python** and am currently sharpening my Python skills as a prerequisite for my journey into **Machine Learning, Deep Learning, and AI Engineering**.  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- **Languages**: C, Python (Basics)  
+- **Currently Learning**: Advanced Python, Deep Learning, AI Engineering  
+- **Interests**: AI, Software Development, Data Science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+- 📩 Email: wrstiffanytisoy@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/stiffany-tisoy-b36163350/
