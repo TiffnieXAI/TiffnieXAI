@@ -12,7 +12,7 @@ Now, I’m diving deeper into **AI**, working toward becoming an **Associate Dat
 ## 🔧 Tech Stack  
 - **Languages**: C, Python (Basics)  
 - **Currently Learning**: Advanced Python, Deep Learning, AI Engineering  
-- **Interests**: AI, Software Development, Data Science  
+- **Interests**: Machine Learning, AI, Data Science  
 
 ## 📫 Connect with Me  
 - 📩 Email: wrstiffanytisoy@gmail.com
