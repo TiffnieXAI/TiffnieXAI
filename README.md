@@ -10,7 +10,11 @@ Now, I’m diving deeper into **AI**, working toward becoming an **Associate Dat
 
 
 ## 🔧 Tech Stack  
-- **Languages**: C, Python (Basics)  
+- **C** → Memory management, pointers, data structures  
+- **Python** → High-level programming, scripting  
+- **SQL** → Database queries, relational databases  
+- **Flask** → Web application development  
+- **Git & GitHub** → Version control 
 - **Currently Learning**: Advanced Python, Deep Learning, AI Engineering  
 - **Interests**: Machine Learning, AI, Data Science  
 
