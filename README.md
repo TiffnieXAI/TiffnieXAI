@@ -1,6 +1,6 @@
 # 💻 Stiffany | Computer Science Student  
 **👩‍💻 Freshman | PUP - Sta. Mesa**  
-🔹 Aspiring Machine Learning & AI Engineer  
+🔹 Machine Learning & AI Engineering  
 🔹 Studying **C** & **Python**  
 
 ## 🚀 About Me  
