@@ -13,9 +13,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TiffnieXAI.TiffnieXAI&left_color=darkgreen&right_color=black&left_text=visitors"  />
 </div>
 
-###
-
-<h1 align="center">Hey there!</h1>
 
 ###
 
