@@ -1,4 +1,7 @@
-
+# 💻 Stiffany | Computer Science Student  
+**👩‍💻 Freshman | PUP - Sta. Mesa**  
+🔹 Machine Learning & AI Engineering  
+🔹 Studying **C** & **Python**  
 
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif"  />
@@ -15,11 +18,6 @@
 <h1 align="center">Hey there!</h1>
 
 ###
-
-# 💻 Stiffany | Computer Science Student  
-**👩‍💻 Freshman | PUP - Sta. Mesa**  
-🔹 Machine Learning & AI Engineering  
-🔹 Studying **C** & **Python**  
 
 ## 🚀 About Me  
 I'm a **Computer Science freshman at PUP - Sta. Mesa** with a deep passion for **AI and innovation**. Over the past year, my journey in **business and accounting** has shown me the incredible potential of technology—not just in transforming industries, but in reshaping how we solve problems and push boundaries.    
