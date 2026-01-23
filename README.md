@@ -19,7 +19,7 @@
 ###
 
 ## 🚀 About Me  
-I'm a **Computer Science freshman at PUP - Sta. Mesa** with a deep passion for **AI and innovation**. Over the past year, my journey in **business and accounting** has shown me the incredible potential of technology—not just in transforming industries, but in reshaping how we solve problems and push boundaries.    
+I'm a **Computer Science sophomore at PUP - Sta. Mesa** with a deep passion for **AI and innovation**. Over the past year, my journey in **business and accounting** has shown me the incredible potential of technology—not just in transforming industries, but in reshaping how we solve problems and push boundaries.    
 
 ###
 
