@@ -2,6 +2,7 @@
 **👩‍💻 Sophomore | PUP - Sta. Mesa**  
 🔹 Machine Learning & AI Engineering  
 🔹 **Java** Developer
+
 🔹 **Full-Stack** Developer
 
 
