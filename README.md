@@ -1,7 +1,9 @@
 # 💻 Stiffany | Computer Science Student  
-**👩‍💻 Freshman | PUP - Sta. Mesa**  
+**👩‍💻 Sophomore | PUP - Sta. Mesa**  
 🔹 Machine Learning & AI Engineering  
-🔹 Studying **C** & **Python**  
+🔹 **Java** Developer
+🔹 **Full-Stack** Developer
+
 
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif"  />
