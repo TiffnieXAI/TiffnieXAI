@@ -1,7 +1,7 @@
 # 💻 Stiffany | Computer Science Student  
 **👩‍💻 Sophomore | PUP - Sta. Mesa**  
 🔹 Machine Learning & AI Engineering  
-🔹 **Java** Developer
+🔹 **Blockchain** Developer
 🔹 **Full-Stack** Developer
 
 
